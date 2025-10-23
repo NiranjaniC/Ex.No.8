@@ -1,7 +1,7 @@
 ## Exp 8: Reproducing an Image Using Prompts for Image Generation
 
-# Date :
-# Reg. No. 
+# Date : 23/10/2025
+# Reg. No. 212223220069
 
 ## Aim:
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
@@ -53,3 +53,35 @@ By using detailed and well-crafted prompts, text-to-image generation models can 
 
 
 ## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
+## Original Image :
+
+<img width="264" height="266" alt="Screenshot 2025-10-23 092931" src="https://github.com/user-attachments/assets/95432e38-225c-4b36-b9a2-4f86a8cb26fd" />
+
+## Prompt :
+A watercolor-style fantasy landscape featuring tall, cylindrical towers with cream-colored walls and vibrant red conical roofs. The towers are built along a winding dirt path that traverses a mountainous cliffside, with some towers perched precariously on rocky ledges. Small human figures walk along the path, suggesting travel or pilgrimage. The terrain is rugged and dotted with patches of grass and shrubs in earthy greens and browns. The sky is filled with fluffy, voluminous clouds in soft blues, warm yellows, and gentle pinks, creating a dreamy and whimsical atmosphere. The background includes distant bluish-purple mountains, adding depth. The painting uses loose, fluid brushstrokes and soft blending typical of watercolor, with a harmonious palette of warm and cool tones. The overall mood is imaginative, serene, and storybook-like.
+
+## AI Generated Image:
+<img width="277" height="438" alt="image" src="https://github.com/user-attachments/assets/00eab880-dfa8-423e-9963-6e2accb9b415" />
+
+
+## Comparison:
+The AI-generated image showed exceptional fidelity to the prompt. It perfectly captured the watercolor style, specific tower colors (cream walls, red roofs), multi-hued clouds, and even the distant bluish-purple mountains, creating a highly imaginative and serene storybook scene.
+
+
+## Original Image:
+<img width="275" height="257" alt="image" src="https://github.com/user-attachments/assets/3ce1df91-d992-4e43-b50a-1cee4e1cab05" />
+
+
+
+## Prompt:
+A highly detailed and vibrant illustration of two birds perched on a slender branch surrounded by blooming flowers. The birds have bright orange chests, deep blue wings, and soft white and gray accents, rendered with realistic yet artistic brushwork. They face slightly toward each other, suggesting a gentle interaction. The branch is adorned with lush blossoms in full bloom—featuring delicate petals in shades of pink, peach, and white, with intricate floral detailing. The background is softly blurred in warm tones, enhancing the focus on the birds and flowers and creating a peaceful, serene atmosphere. The overall style is painterly and elegant, blending realism with artistic charm.
+
+
+## AI Generated Image:
+
+<img width="282" height="330" alt="Screenshot 2025-10-23 094836" src="https://github.com/user-attachments/assets/09d1df66-3ea1-486a-83f5-f149bbf68702" />
+
+
+## Comparison:
+The AI-generated image demonstrates Exceptional Fidelity to the prompt. It is almost a perfect realization of the complex description, matching the specific colors of the birds, the floral detailing, the painterly style, the composition, and the atmospheric blurring requested. It faithfully replicates the subject matter and artistic vision laid out in the text.
+
